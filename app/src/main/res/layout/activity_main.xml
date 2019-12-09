@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="307dp"
         android:layout_height="50dp"
-        android:text="Sveiciens pasaulei no Grupas 2 : Egils Lobuzovs, Oļģerts Klāvs Balabāns, Andis Lazdiņš!!"
+        android:text="Sveiciens pasaulei no Grupas 2 : Egils Lobuzovs, Oļģerts Klāvs Balabāns, Andis Lazdiņš!!!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.48"
         app:layout_constraintLeft_toLeftOf="parent"
